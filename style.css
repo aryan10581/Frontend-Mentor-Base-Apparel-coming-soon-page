@@ -19,7 +19,7 @@ height: 100vh; */
   display: flex;
 }
 .left {
-  border: 2px solid blue;
+  /* border: 2px solid blue; */
   /* float: left; */
   width: 60vw;
 }
